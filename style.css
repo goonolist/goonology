@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #0f0f0f;
+  color: #eee;
+  padding: 40px;
+}
+
+h1 {
+  color: #ff5555;
+}
+
+form {
+  max-width: 400px;
+}
+
+input, textarea, button {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+button {
+  background: #ff5555;
+  border: none;
+  color: black;
+  font-weight: bold;
+  cursor: pointer;
+}
